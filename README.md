@@ -2,6 +2,9 @@
 
 Задай мне вопрос - <a href="https://surasai.web.app/user/nurlykhan" target="_blank">https://surasai.web.app/user/nurlykhan</a>
 
+[Hello, world!](http://example.com/){target="_blank"}
+
+
 
 
 

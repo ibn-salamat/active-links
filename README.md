@@ -1,8 +1,10 @@
 
-
 # Isn't it Time?
 
-contact me: <n.salamatoff@gmail.com>
 
+#### Contacts
 
-my website: https://ibn-salamat.github.io/
+Email me: n.salamatoff@gmail.com
+
+Website: [ibn-salamat.github.io](https://ibn-salamat.github.io/) 
+
